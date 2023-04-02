@@ -1,0 +1,13 @@
+D:\Proyectos Visual Matias B, Lisandro R\AlumnoGUIclase7\AlumnoGUI\bin\Debug\AlumnoGUI.exe.config
+D:\Proyectos Visual Matias B, Lisandro R\AlumnoGUIclase7\AlumnoGUI\bin\Debug\AlumnoGUI.exe
+D:\Proyectos Visual Matias B, Lisandro R\AlumnoGUIclase7\AlumnoGUI\bin\Debug\AlumnoGUI.pdb
+D:\Proyectos Visual Matias B, Lisandro R\AlumnoGUIclase7\AlumnoGUI\obj\Debug\AlumnoGUI.csprojAssemblyReference.cache
+D:\Proyectos Visual Matias B, Lisandro R\AlumnoGUIclase7\AlumnoGUI\obj\Debug\AlumnoGUI.Properties.Resources.resources
+D:\Proyectos Visual Matias B, Lisandro R\AlumnoGUIclase7\AlumnoGUI\obj\Debug\AlumnoGUI.csproj.GenerateResource.cache
+D:\Proyectos Visual Matias B, Lisandro R\AlumnoGUIclase7\AlumnoGUI\obj\Debug\AlumnoGUI.csproj.CoreCompileInputs.cache
+D:\Proyectos Visual Matias B, Lisandro R\AlumnoGUIclase7\AlumnoGUI\obj\Debug\AlumnoGUI.exe
+D:\Proyectos Visual Matias B, Lisandro R\AlumnoGUIclase7\AlumnoGUI\obj\Debug\AlumnoGUI.pdb
+D:\Proyectos Visual Matias B, Lisandro R\AlumnoGUIclase7\AlumnoGUI\obj\Debug\AlumnoGUI.frmAlumno.resources
+D:\Proyectos Visual Matias B\AlumnoGUIclase7\AlumnoGUI\obj\Debug\AlumnoGUI.csprojAssemblyReference.cache
+D:\Proyectos Visual Matias B\AlumnoGUIclase7\AlumnoGUI\obj\Debug\AlumnoGUI.exe
+D:\Proyectos Visual Matias B\AlumnoGUIclase7\AlumnoGUI\obj\Debug\AlumnoGUI.pdb
